@@ -2,8 +2,8 @@
 
 # 💫 About Me:>
 <h1 align="center">Hi 👋, I'm Ganesh G L</h1>
-<h3 align="center">A passionate Data Science Engineer from India</h3>
-👨‍💻 Data Science Engineer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 https://GaneshLakshmanan.github.io/portfolio/ <br>
+<h3 align="center">A passionate Data Scientist from India</h3>
+👨‍💻 Data Scientist <br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 https://GaneshLakshmanan.github.io/portfolio/ <br>
 
 
 ## 🌐 Socials:
